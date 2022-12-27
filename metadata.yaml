@@ -1,0 +1,36 @@
+_repo: The-humour-of-Spain_69530
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Taylor, Susette M.
+    gutenberg_agent_id: '55301'
+    url: http://www.gutenberg.org/2009/agents/55301
+  illustrator:
+    agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, Harold Robert
+    - Millar, H.R.
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+    wikipedia: https://en.wikipedia.org/wiki/H._R._Millar
+description: ''
+gutenberg_issued: '2022-12-12'
+identifiers:
+  gutenberg: '69530'
+language: en
+pgterms:marc905: 20141220021542taylor
+pgterms:marc906: '1909'
+pgterms:marc907: gb
+production_note: Josep Cols Canals, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: The Walter Scott Publishing Co., Ltd.,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The humour of Spain.
+url: http://www.gutenberg.org/ebooks/69530
