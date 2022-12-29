@@ -15,7 +15,12 @@ contributor:
     gutenberg_agent_id: '7296'
     url: http://www.gutenberg.org/2009/agents/7296
     wikipedia: https://en.wikipedia.org/wiki/H._R._Millar
+covers:
+- cover_type: archival
+  image_path: 69530-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69530#The-humour-of-Spain
 gutenberg_issued: '2022-12-12'
 identifiers:
   gutenberg: '69530'
